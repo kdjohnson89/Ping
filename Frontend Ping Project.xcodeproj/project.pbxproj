@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		B73744AC22836500004B6CEB /* ping-coming-soon-page-master */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ping-coming-soon-page-master"; sourceTree = "<group>"; };
+		B7AE803B22876F3700937B53 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = styles.css; path = "ping-coming-soon-page-master/styles.css"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		B73744A5228364E4004B6CEB = {
 			isa = PBXGroup;
 			children = (
+				B7AE803B22876F3700937B53 /* styles.css */,
 				B73744AC22836500004B6CEB /* ping-coming-soon-page-master */,
 			);
 			sourceTree = "<group>";
