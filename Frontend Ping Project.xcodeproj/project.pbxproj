@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		B73744AC22836500004B6CEB /* ping-coming-soon-page-master */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ping-coming-soon-page-master"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		B73744A5228364E4004B6CEB = {
 			isa = PBXGroup;
 			children = (
+				B73744AC22836500004B6CEB /* ping-coming-soon-page-master */,
 			);
 			sourceTree = "<group>";
 		};
