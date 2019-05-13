@@ -27,18 +27,23 @@ body {
 	border: solid 1px hsl(223, 100%, 88%);
 	border-radius: 30px;
 	width: 75%;
+	margin: 0 10px 0 10px;
 	padding: 15px;
 	margin: 5px;
 }
 
-button {
+input:invalid {
+	border: solid 1px hsl(354, 100%, 66%);
+}
+
+.button {
 	background-color: hsl(223, 87%, 63%);
 	border: none;
 	border-radius: 30px;
 	box-shadow: 0 1px 4px hsl(223, 87%, 63%);
-	width: 83%;
+	width: 80%;
+	margin: 5px 10px 0 10px;
 	padding: 15px;
-	margin: 5px;
 	color: white;
 }
 
